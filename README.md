@@ -46,7 +46,7 @@ PreAnoMex follows a modular architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/preanomex.git
+(https://github.com/Ne-x-tr-on/PreAnoMex.git)
 
 # Navigate to project folder
 cd preanomex
